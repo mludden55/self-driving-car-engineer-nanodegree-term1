@@ -11,7 +11,7 @@ This repository is for Term 1 of the Self-Driving Car Engineer Nanodegree.  It i
 
 ### Computer Vision and Deep Learning
 
- - Project 1: [Data Finding Lane Lines](https://github.com/mludden55/self-driving-car-engineer-nanodegree-term1/tree/master/CarND-Finding-Lane-Lines)
+ - Project 1: [Finding Lane Lines](https://github.com/mludden55/self-driving-car-engineer-nanodegree-term1/tree/master/CarND-Finding-Lane-Lines)
 
  - Project 2: [Traffic Sign Classifier](https://github.com/mludden55/self-driving-car-engineer-nanodegree-term1/tree/master/CarND-Traffic-Sign-Classifier)  
 
