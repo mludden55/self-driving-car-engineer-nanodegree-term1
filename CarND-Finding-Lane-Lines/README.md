@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 ## Reflection
 
-###My pipeline consists of 7 steps:
+### My pipeline consists of 7 steps:
 
 1. Convert the input image to grayscale.
 
@@ -25,13 +25,13 @@ The goals / steps of this project are the following:
 
 5. Uses the Hough method to determine where the lines are within the 4 sided polygon. This method also includes a call to the draw\_lines function. The draw\_lines function:
 
-  A. Loops over the lines to sum their coordinates and determine the slope.
+      A. Loops over the lines to sum their coordinates and determine the slope.
 
-  B. Use the slope to determine if it is the left or right line.
+      B. Use the slope to determine if it is the left or right line.
 
-  C. Find the average slope and coordinates of each line in order to draw the line.
+      C. Find the average slope and coordinates of each line in order to draw the line.
 
-  D. Draw the line. 
+      D. Draw the line. 
    
 6. Apply the lines created above on to the original image using the cv2.addWeighted method.
 
